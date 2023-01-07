@@ -8,7 +8,7 @@ timezone: Brazil/West
 
 title: Archie                         
 
-tagline: Stupid guy trying to be useful for Computer Science
+tagline: Topics of Programming, Techno-babble, Weeb, and Life through the eyes of a Brazilian Software Developer.
 
 description: >-                       
 
@@ -48,6 +48,8 @@ pwa:
   enabled: true   # the option for PWA feature
 
 paginate: 10
+
+theme_mode:   # [dark|light]
 
 # ------------ The following options are not recommended to be modified ------------------
 
