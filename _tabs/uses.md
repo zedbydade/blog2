@@ -48,9 +48,7 @@ On the side, I find myself doing hobby programming in the following domains:
 
 **Operating System:** I use Arch btw.
 
-#### Mobal devices
-
-Lenovo IDEAPAD S145(Arch Linux btw)
+#### Mobalile devices
 
 Samsung S22U(Android standard)
 
@@ -64,7 +62,7 @@ I like to use CLI and software that follow the Unix philosophy.
 
 **Terminal:** Kitty
 
-**Browser:** Chrome 
+**Browser:** Chrome
 
 
 
