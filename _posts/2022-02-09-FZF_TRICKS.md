@@ -32,10 +32,21 @@ Now, we have the most basic FZF feature that is... Search for file!!. If you typ
 
 # Change directories
 
-Here we will start to see the magic fzf can make. You can traverswe directories in such many ways;
+Here we will start to see the magic fzf can make. You can traverse directories in such many ways;
 
 * Using a GUI program(The normie way)
 * Using fzf(The epick Haskell wizard way)
+
+For that one magic trick, you will just need to type that command, and then you can traverse between directories in an easy way.
+```bash
+cd $(find * -type d | fzf)
+
+```
+![fzf_change_directory](/assets/fzf_change_directory.gif)
+
+* Find * -type d -- gives us a list of all directories listed on that directory.
+* fzf - will use the input to filter through the list.
+* cd - maybe that's will change the directory.
 
 
 
